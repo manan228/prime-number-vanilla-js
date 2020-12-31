@@ -1,0 +1,13 @@
+textarea {
+    display: block;
+}
+
+button {
+    margin: 1rem 0rem;
+}
+
+div {
+    border: solid 2px;
+    width: 10rem;
+    height: 10vh;
+}
